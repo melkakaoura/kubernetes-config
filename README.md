@@ -1,18 +1,23 @@
-# kubernetes-config
+# Kubernetes Config
 
-A basic implementation of Kubernetes configurations. This repository serves as a starting point for developers looking to deploy applications on Kubernetes.
+## Introduction
+This repository contains basic Kubernetes configuration examples. It is designed for developers looking to understand and implement Kubernetes configurations.
 
 ## Features
-- Sample configurations for deploying applications.
-- Best practices for Kubernetes configurations.
+- Deployment configurations
+- Service configurations
+- Ingress examples
 
 ## Technology Stack
-- YAML
 - Kubernetes
 
 ## Usage
-Review the configuration files and use them as templates for your own deployments.
+Clone the repository and explore the configurations:
+```bash
+git clone https://github.com/username/kubernetes-config.git
+cd kubernetes-config
+```
 
 ## Future Plans
-- Add more examples for different deployment scenarios.
-- Improve documentation and best practices.
+- Add more complex configurations
+- Improve documentation with examples
